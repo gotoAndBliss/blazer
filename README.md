@@ -1106,3 +1106,4 @@ That’s awesome! Here are a few ways you can help:
 - Suggest or add new features
 
 Check out the [dev app](https://github.com/ankane/blazer-dev) to get started.
+# blazer
