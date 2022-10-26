@@ -4,7 +4,7 @@ module Blazer
     before_action :set_data_source, only: [:tables, :docs, :schema, :cancel]
 
     def home
-      set_queries(200)
+      set_queries(1000)
 
       if params[:filter]
         @dashboards = [] # TODO show my dashboards
